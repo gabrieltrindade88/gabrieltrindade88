@@ -24,10 +24,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieltrindade88&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrindade88&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieltrindade88&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrindade88&layout=compact&langs_count=8&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
